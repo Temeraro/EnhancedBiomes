@@ -274,6 +274,396 @@ tile.oreEmeraldEB_11.name=Emerald Ore
 tile.oreEmeraldEB_12.name=Emerald Ore
 
 
+tile.oreCopperEB_0.name=Copper Ore
+tile.oreCopperEB_1.name=Copper Ore
+tile.oreCopperEB_2.name=Copper Ore
+tile.oreCopperEB_3.name=Copper Ore
+tile.oreCopperEB_4.name=Copper Ore
+tile.oreCopperEB_5.name=Copper Ore
+tile.oreCopperEB_6.name=Copper Ore
+tile.oreCopperEB_7.name=Copper Ore
+tile.oreCopperEB_8.name=Copper Ore
+tile.oreCopperEB_9.name=Copper Ore
+tile.oreCopperEB_10.name=Copper Ore
+tile.oreCopperEB_11.name=Copper Ore
+tile.oreCopperEB_12.name=Copper Ore
+
+
+tile.oreTinEB_0.name=Tin Ore
+tile.oreTinEB_1.name=Tin Ore
+tile.oreTinEB_2.name=Tin Ore
+tile.oreTinEB_3.name=Tin Ore
+tile.oreTinEB_4.name=Tin Ore
+tile.oreTinEB_5.name=Tin Ore
+tile.oreTinEB_6.name=Tin Ore
+tile.oreTinEB_7.name=Tin Ore
+tile.oreTinEB_8.name=Tin Ore
+tile.oreTinEB_9.name=Tin Ore
+tile.oreTinEB_10.name=Tin Ore
+tile.oreTinEB_11.name=Tin Ore
+tile.oreTinEB_12.name=Tin Ore
+
+
+tile.oreSilverEB_0.name=Silver Ore
+tile.oreSilverEB_1.name=Silver Ore
+tile.oreSilverEB_2.name=Silver Ore
+tile.oreSilverEB_3.name=Silver Ore
+tile.oreSilverEB_4.name=Silver Ore
+tile.oreSilverEB_5.name=Silver Ore
+tile.oreSilverEB_6.name=Silver Ore
+tile.oreSilverEB_7.name=Silver Ore
+tile.oreSilverEB_8.name=Silver Ore
+tile.oreSilverEB_9.name=Silver Ore
+tile.oreSilverEB_10.name=Silver Ore
+tile.oreSilverEB_11.name=Silver Ore
+tile.oreSilverEB_12.name=Silver Ore
+
+
+tile.oreLeadEB_0.name=Lead Ore
+tile.oreLeadEB_1.name=Lead Ore
+tile.oreLeadEB_2.name=Lead Ore
+tile.oreLeadEB_3.name=Lead Ore
+tile.oreLeadEB_4.name=Lead Ore
+tile.oreLeadEB_5.name=Lead Ore
+tile.oreLeadEB_6.name=Lead Ore
+tile.oreLeadEB_7.name=Lead Ore
+tile.oreLeadEB_8.name=Lead Ore
+tile.oreLeadEB_9.name=Lead Ore
+tile.oreLeadEB_10.name=Lead Ore
+tile.oreLeadEB_11.name=Lead Ore
+tile.oreLeadEB_12.name=Lead Ore
+
+
+tile.oreNickelEB_0.name=Nickel Ore
+tile.oreNickelEB_1.name=Nickel Ore
+tile.oreNickelEB_2.name=Nickel Ore
+tile.oreNickelEB_3.name=Nickel Ore
+tile.oreNickelEB_4.name=Nickel Ore
+tile.oreNickelEB_5.name=Nickel Ore
+tile.oreNickelEB_6.name=Nickel Ore
+tile.oreNickelEB_7.name=Nickel Ore
+tile.oreNickelEB_8.name=Nickel Ore
+tile.oreNickelEB_9.name=Nickel Ore
+tile.oreNickelEB_10.name=Nickel Ore
+tile.oreNickelEB_11.name=Nickel Ore
+tile.oreNickelEB_12.name=Nickel Ore
+
+
+tile.orePlatinumEB_0.name=Platinum Ore
+tile.orePlatinumEB_1.name=Platinum Ore
+tile.orePlatinumEB_2.name=Platinum Ore
+tile.orePlatinumEB_3.name=Platinum Ore
+tile.orePlatinumEB_4.name=Platinum Ore
+tile.orePlatinumEB_5.name=Platinum Ore
+tile.orePlatinumEB_6.name=Platinum Ore
+tile.orePlatinumEB_7.name=Platinum Ore
+tile.orePlatinumEB_8.name=Platinum Ore
+tile.orePlatinumEB_9.name=Platinum Ore
+tile.orePlatinumEB_10.name=Platinum Ore
+tile.orePlatinumEB_11.name=Platinum Ore
+tile.orePlatinumEB_12.name=Platinum Ore
+
+
+tile.oreMithrilEB_0.name=Mithril Ore
+tile.oreMithrilEB_1.name=Mithril Ore
+tile.oreMithrilEB_2.name=Mithril Ore
+tile.oreMithrilEB_3.name=Mithril Ore
+tile.oreMithrilEB_4.name=Mithril Ore
+tile.oreMithrilEB_5.name=Mithril Ore
+tile.oreMithrilEB_6.name=Mithril Ore
+tile.oreMithrilEB_7.name=Mithril Ore
+tile.oreMithrilEB_8.name=Mithril Ore
+tile.oreMithrilEB_9.name=Mithril Ore
+tile.oreMithrilEB_10.name=Mithril Ore
+tile.oreMithrilEB_11.name=Mithril Ore
+tile.oreMithrilEB_12.name=Mithril Ore
+
+
+tile.oreAluminumEB_0.name=Aluminum Ore
+tile.oreAluminumEB_1.name=Aluminum Ore
+tile.oreAluminumEB_2.name=Aluminum Ore
+tile.oreAluminumEB_3.name=Aluminum Ore
+tile.oreAluminumEB_4.name=Aluminum Ore
+tile.oreAluminumEB_5.name=Aluminum Ore
+tile.oreAluminumEB_6.name=Aluminum Ore
+tile.oreAluminumEB_7.name=Aluminum Ore
+tile.oreAluminumEB_8.name=Aluminum Ore
+tile.oreAluminumEB_9.name=Aluminum Ore
+tile.oreAluminumEB_10.name=Aluminum Ore
+tile.oreAluminumEB_11.name=Aluminum Ore
+tile.oreAluminumEB_12.name=Aluminum Ore
+
+
+tile.oreUraniumEB_0.name=Uranium Ore
+tile.oreUraniumEB_1.name=Uranium Ore
+tile.oreUraniumEB_2.name=Uranium Ore
+tile.oreUraniumEB_3.name=Uranium Ore
+tile.oreUraniumEB_4.name=Uranium Ore
+tile.oreUraniumEB_5.name=Uranium Ore
+tile.oreUraniumEB_6.name=Uranium Ore
+tile.oreUraniumEB_7.name=Uranium Ore
+tile.oreUraniumEB_8.name=Uranium Ore
+tile.oreUraniumEB_9.name=Uranium Ore
+tile.oreUraniumEB_10.name=Uranium Ore
+tile.oreUraniumEB_11.name=Uranium Ore
+tile.oreUraniumEB_12.name=Uranium Ore
+
+
+tile.oreZincEB_0.name=Zinc Ore
+tile.oreZincEB_1.name=Zinc Ore
+tile.oreZincEB_2.name=Zinc Ore
+tile.oreZincEB_3.name=Zinc Ore
+tile.oreZincEB_4.name=Zinc Ore
+tile.oreZincEB_5.name=Zinc Ore
+tile.oreZincEB_6.name=Zinc Ore
+tile.oreZincEB_7.name=Zinc Ore
+tile.oreZincEB_8.name=Zinc Ore
+tile.oreZincEB_9.name=Zinc Ore
+tile.oreZincEB_10.name=Zinc Ore
+tile.oreZincEB_11.name=Zinc Ore
+tile.oreZincEB_12.name=Zinc Ore
+
+
+tile.oreTungstenEB_0.name=Tungsten Ore
+tile.oreTungstenEB_1.name=Tungsten Ore
+tile.oreTungstenEB_2.name=Tungsten Ore
+tile.oreTungstenEB_3.name=Tungsten Ore
+tile.oreTungstenEB_4.name=Tungsten Ore
+tile.oreTungstenEB_5.name=Tungsten Ore
+tile.oreTungstenEB_6.name=Tungsten Ore
+tile.oreTungstenEB_7.name=Tungsten Ore
+tile.oreTungstenEB_8.name=Tungsten Ore
+tile.oreTungstenEB_9.name=Tungsten Ore
+tile.oreTungstenEB_10.name=Tungsten Ore
+tile.oreTungstenEB_11.name=Tungsten Ore
+tile.oreTungstenEB_12.name=Tungsten Ore
+
+
+tile.oreRubyEB_0.name=Ruby Ore
+tile.oreRubyEB_1.name=Ruby Ore
+tile.oreRubyEB_2.name=Ruby Ore
+tile.oreRubyEB_3.name=Ruby Ore
+tile.oreRubyEB_4.name=Ruby Ore
+tile.oreRubyEB_5.name=Ruby Ore
+tile.oreRubyEB_6.name=Ruby Ore
+tile.oreRubyEB_7.name=Ruby Ore
+tile.oreRubyEB_8.name=Ruby Ore
+tile.oreRubyEB_9.name=Ruby Ore
+tile.oreRubyEB_10.name=Ruby Ore
+tile.oreRubyEB_11.name=Ruby Ore
+tile.oreRubyEB_12.name=Ruby Ore
+
+
+tile.oreSapphireEB_0.name=Sapphire Ore
+tile.oreSapphireEB_1.name=Sapphire Ore
+tile.oreSapphireEB_2.name=Sapphire Ore
+tile.oreSapphireEB_3.name=Sapphire Ore
+tile.oreSapphireEB_4.name=Sapphire Ore
+tile.oreSapphireEB_5.name=Sapphire Ore
+tile.oreSapphireEB_6.name=Sapphire Ore
+tile.oreSapphireEB_7.name=Sapphire Ore
+tile.oreSapphireEB_8.name=Sapphire Ore
+tile.oreSapphireEB_9.name=Sapphire Ore
+tile.oreSapphireEB_10.name=Sapphire Ore
+tile.oreSapphireEB_11.name=Sapphire Ore
+tile.oreSapphireEB_12.name=Sapphire Ore
+
+
+tile.orePeridotEB_0.name=Peridot Ore
+tile.orePeridotEB_1.name=Peridot Ore
+tile.orePeridotEB_2.name=Peridot Ore
+tile.orePeridotEB_3.name=Peridot Ore
+tile.orePeridotEB_4.name=Peridot Ore
+tile.orePeridotEB_5.name=Peridot Ore
+tile.orePeridotEB_6.name=Peridot Ore
+tile.orePeridotEB_7.name=Peridot Ore
+tile.orePeridotEB_8.name=Peridot Ore
+tile.orePeridotEB_9.name=Peridot Ore
+tile.orePeridotEB_10.name=Peridot Ore
+tile.orePeridotEB_11.name=Peridot Ore
+tile.orePeridotEB_12.name=Peridot Ore
+
+
+tile.oreElectrotineEB_0.name=Electrotine Ore
+tile.oreElectrotineEB_1.name=Electrotine Ore
+tile.oreElectrotineEB_2.name=Electrotine Ore
+tile.oreElectrotineEB_3.name=Electrotine Ore
+tile.oreElectrotineEB_4.name=Electrotine Ore
+tile.oreElectrotineEB_5.name=Electrotine Ore
+tile.oreElectrotineEB_6.name=Electrotine Ore
+tile.oreElectrotineEB_7.name=Electrotine Ore
+tile.oreElectrotineEB_8.name=Electrotine Ore
+tile.oreElectrotineEB_9.name=Electrotine Ore
+tile.oreElectrotineEB_10.name=Electrotine Ore
+tile.oreElectrotineEB_11.name=Electrotine Ore
+tile.oreElectrotineEB_12.name=Electrotine Ore
+
+
+tile.oreCoraliumEB_0.name=Coralium Ore
+tile.oreCoraliumEB_1.name=Coralium Ore
+tile.oreCoraliumEB_2.name=Coralium Ore
+tile.oreCoraliumEB_3.name=Coralium Ore
+tile.oreCoraliumEB_4.name=Coralium Ore
+tile.oreCoraliumEB_5.name=Coralium Ore
+tile.oreCoraliumEB_6.name=Coralium Ore
+tile.oreCoraliumEB_7.name=Coralium Ore
+tile.oreCoraliumEB_8.name=Coralium Ore
+tile.oreCoraliumEB_9.name=Coralium Ore
+tile.oreCoraliumEB_10.name=Coralium Ore
+tile.oreCoraliumEB_11.name=Coralium Ore
+tile.oreCoraliumEB_12.name=Coralium Ore
+
+
+tile.oreDarkIronEB_0.name=Dark Iron Ore
+tile.oreDarkIronEB_1.name=Dark Iron Ore
+tile.oreDarkIronEB_2.name=Dark Iron Ore
+tile.oreDarkIronEB_3.name=Dark Iron Ore
+tile.oreDarkIronEB_4.name=Dark Iron Ore
+tile.oreDarkIronEB_5.name=Dark Iron Ore
+tile.oreDarkIronEB_6.name=Dark Iron Ore
+tile.oreDarkIronEB_7.name=Dark Iron Ore
+tile.oreDarkIronEB_8.name=Dark Iron Ore
+tile.oreDarkIronEB_9.name=Dark Iron Ore
+tile.oreDarkIronEB_10.name=Dark Iron Ore
+tile.oreDarkIronEB_11.name=Dark Iron Ore
+tile.oreDarkIronEB_12.name=Dark Iron Ore
+
+
+tile.oreGalenaEB_0.name=Galena Ore
+tile.oreGalenaEB_1.name=Galena Ore
+tile.oreGalenaEB_2.name=Galena Ore
+tile.oreGalenaEB_3.name=Galena Ore
+tile.oreGalenaEB_4.name=Galena Ore
+tile.oreGalenaEB_5.name=Galena Ore
+tile.oreGalenaEB_6.name=Galena Ore
+tile.oreGalenaEB_7.name=Galena Ore
+tile.oreGalenaEB_8.name=Galena Ore
+tile.oreGalenaEB_9.name=Galena Ore
+tile.oreGalenaEB_10.name=Galena Ore
+tile.oreGalenaEB_11.name=Galena Ore
+tile.oreGalenaEB_12.name=Galena Ore
+
+
+tile.oreIridiumEB_0.name=Iridium Ore
+tile.oreIridiumEB_1.name=Iridium Ore
+tile.oreIridiumEB_2.name=Iridium Ore
+tile.oreIridiumEB_3.name=Iridium Ore
+tile.oreIridiumEB_4.name=Iridium Ore
+tile.oreIridiumEB_5.name=Iridium Ore
+tile.oreIridiumEB_6.name=Iridium Ore
+tile.oreIridiumEB_7.name=Iridium Ore
+tile.oreIridiumEB_8.name=Iridium Ore
+tile.oreIridiumEB_9.name=Iridium Ore
+tile.oreIridiumEB_10.name=Iridium Ore
+tile.oreIridiumEB_11.name=Iridium Ore
+tile.oreIridiumEB_12.name=Iridium Ore
+
+
+tile.oreBauxiteEB_0.name=Bauxite Ore
+tile.oreBauxiteEB_1.name=Bauxite Ore
+tile.oreBauxiteEB_2.name=Bauxite Ore
+tile.oreBauxiteEB_3.name=Bauxite Ore
+tile.oreBauxiteEB_4.name=Bauxite Ore
+tile.oreBauxiteEB_5.name=Bauxite Ore
+tile.oreBauxiteEB_6.name=Bauxite Ore
+tile.oreBauxiteEB_7.name=Bauxite Ore
+tile.oreBauxiteEB_8.name=Bauxite Ore
+tile.oreBauxiteEB_9.name=Bauxite Ore
+tile.oreBauxiteEB_10.name=Bauxite Ore
+tile.oreBauxiteEB_11.name=Bauxite Ore
+tile.oreBauxiteEB_12.name=Bauxite Ore
+
+
+tile.oreCinnabarEB_0.name=Cinnabar Ore
+tile.oreCinnabarEB_1.name=Cinnabar Ore
+tile.oreCinnabarEB_2.name=Cinnabar Ore
+tile.oreCinnabarEB_3.name=Cinnabar Ore
+tile.oreCinnabarEB_4.name=Cinnabar Ore
+tile.oreCinnabarEB_5.name=Cinnabar Ore
+tile.oreCinnabarEB_6.name=Cinnabar Ore
+tile.oreCinnabarEB_7.name=Cinnabar Ore
+tile.oreCinnabarEB_8.name=Cinnabar Ore
+tile.oreCinnabarEB_9.name=Cinnabar Ore
+tile.oreCinnabarEB_10.name=Cinnabar Ore
+tile.oreCinnabarEB_11.name=Cinnabar Ore
+tile.oreCinnabarEB_12.name=Cinnabar Ore
+
+
+tile.oreSphaleriteEB_0.name=Sphalerite Ore
+tile.oreSphaleriteEB_1.name=Sphalerite Ore
+tile.oreSphaleriteEB_2.name=Sphalerite Ore
+tile.oreSphaleriteEB_3.name=Sphalerite Ore
+tile.oreSphaleriteEB_4.name=Sphalerite Ore
+tile.oreSphaleriteEB_5.name=Sphalerite Ore
+tile.oreSphaleriteEB_6.name=Sphalerite Ore
+tile.oreSphaleriteEB_7.name=Sphalerite Ore
+tile.oreSphaleriteEB_8.name=Sphalerite Ore
+tile.oreSphaleriteEB_9.name=Sphalerite Ore
+tile.oreSphaleriteEB_10.name=Sphalerite Ore
+tile.oreSphaleriteEB_11.name=Sphalerite Ore
+tile.oreSphaleriteEB_12.name=Sphalerite Ore
+
+
+tile.oreTetrahedriteEB_0.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_1.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_2.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_3.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_4.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_5.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_6.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_7.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_8.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_9.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_10.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_11.name=Tetrahedrite Ore
+tile.oreTetrahedriteEB_12.name=Tetrahedrite Ore
+
+
+tile.oreCassiteriteEB_0.name=Cassiterite Ore
+tile.oreCassiteriteEB_1.name=Cassiterite Ore
+tile.oreCassiteriteEB_2.name=Cassiterite Ore
+tile.oreCassiteriteEB_3.name=Cassiterite Ore
+tile.oreCassiteriteEB_4.name=Cassiterite Ore
+tile.oreCassiteriteEB_5.name=Cassiterite Ore
+tile.oreCassiteriteEB_6.name=Cassiterite Ore
+tile.oreCassiteriteEB_7.name=Cassiterite Ore
+tile.oreCassiteriteEB_8.name=Cassiterite Ore
+tile.oreCassiteriteEB_9.name=Cassiterite Ore
+tile.oreCassiteriteEB_10.name=Cassiterite Ore
+tile.oreCassiteriteEB_11.name=Cassiterite Ore
+tile.oreCassiteriteEB_12.name=Cassiterite Ore
+
+
+tile.oreMinicioEB_0.name=Minicio Ore
+tile.oreMinicioEB_1.name=Minicio Ore
+tile.oreMinicioEB_2.name=Minicio Ore
+tile.oreMinicioEB_3.name=Minicio Ore
+tile.oreMinicioEB_4.name=Minicio Ore
+tile.oreMinicioEB_5.name=Minicio Ore
+tile.oreMinicioEB_6.name=Minicio Ore
+tile.oreMinicioEB_7.name=Minicio Ore
+tile.oreMinicioEB_8.name=Minicio Ore
+tile.oreMinicioEB_9.name=Minicio Ore
+tile.oreMinicioEB_10.name=Minicio Ore
+tile.oreMinicioEB_11.name=Minicio Ore
+tile.oreMinicioEB_12.name=Minicio Ore
+
+
+tile.oreTitaniumEB_0.name=Titanium Ore
+tile.oreTitaniumEB_1.name=Titanium Ore
+tile.oreTitaniumEB_2.name=Titanium Ore
+tile.oreTitaniumEB_3.name=Titanium Ore
+tile.oreTitaniumEB_4.name=Titanium Ore
+tile.oreTitaniumEB_5.name=Titanium Ore
+tile.oreTitaniumEB_6.name=Titanium Ore
+tile.oreTitaniumEB_7.name=Titanium Ore
+tile.oreTitaniumEB_8.name=Titanium Ore
+tile.oreTitaniumEB_9.name=Titanium Ore
+tile.oreTitaniumEB_10.name=Titanium Ore
+tile.oreTitaniumEB_11.name=Titanium Ore
+tile.oreTitaniumEB_12.name=Titanium Ore
+
+
 tile.slabSEB_0.name=Basalt Slab
 tile.slabSEB_1.name=Shale Slab
 tile.slabSEB_2.name=Hardened Sandstone Slab
